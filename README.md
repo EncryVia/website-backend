@@ -1,1 +1,1 @@
-# website must be structured and encrypted
+# an website must be structured and encrypted
